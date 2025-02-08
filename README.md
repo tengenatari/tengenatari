@@ -1,6 +1,6 @@
 ## My languages
 
-
+<img src="[https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" alt="GitHub Streak" />
 ## My commits
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly" alt="GitHub Streak" /></a></div>
