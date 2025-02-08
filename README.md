@@ -26,8 +26,8 @@
 
 <h2>:fire:Stats</h2>
 
-<div align="center" justify="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly&card_height=215&hide_current_streak=true" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengenatari&hide=jupyter%20notebook&theme=dracula&layout=donut" alt="GitHub Streak" /></div>
+<div align="center" justify="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly&card_width=350&card_height=215&hide_current_streak=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengenatari&hide=jupyter%20notebook&theme=dracula&layout=donut&card_width=300" alt="GitHub Streak" /></div>
 
 <!--
 **tengenatari/tengenatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
