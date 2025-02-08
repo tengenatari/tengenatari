@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tengenatari&hide=jupyter%20notebook&theme=dracula)
+
 <h2> :tongue: My languages</h2>
 
 <div align="center">
