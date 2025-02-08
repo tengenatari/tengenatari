@@ -4,7 +4,7 @@
 
 ## My commits
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly" alt="GitHub Streak" /></a>
+<a  href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly" alt="GitHub Streak" /></a>
 
 <!--
 **tengenatari/tengenatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
