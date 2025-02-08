@@ -1,4 +1,4 @@
-<h2>My languages</h2>
+<h2> :tongue: My languages</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="" />
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="" />
 </div>
 
-<h2>My Frameworks, Platforms and Libraries</h2>
+<h2>:honeybee: My Frameworks, Platforms and Libraries</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
