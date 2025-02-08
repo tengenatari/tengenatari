@@ -23,11 +23,24 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   
 </div>
+<h2><p>:robot: ML/DL and other</p> </h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes">
+</div>
+
 
 <h2>:fire:Stats</h2>
 
 <div align="center" justify="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tengenatari&theme=dracula&mode=weekly&card_width=350&card_height=215&hide_current_streak=true" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengenatari&hide=jupyter%20notebook&theme=dracula&layout=donut&card_width=300" alt="GitHub Streak" /></div>
+
 
 <!--
 **tengenatari/tengenatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
